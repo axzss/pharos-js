@@ -1,0 +1,20 @@
+{
+  "name": "pharos-testnet-auto",
+  "version": "1.0.0",
+  "description": "Tools otomatisasi transaksi Pharos Testnet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "GreyAch (axzss)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "bip39": "^3.0.4",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "figlet": "^1.6.0",
+    "readline-sync": "^1.4.10"
+  }
+}
